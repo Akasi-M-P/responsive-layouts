@@ -1,4 +1,4 @@
-/* * {
+* {
     box-sizing: border-box;
 }
 
@@ -11,17 +11,18 @@ body {
     background-color: rgb(145, 116, 80);
     padding: 50px;
     margin: 0 auto;
-    overflow: hidden;
+    /* padding: ; */
+
 }
 
 .child {
-    background-color: rgb(238, 238, 238);
-    height: 250px;
+    background-color: rgb(175, 189, 101);
     width: 50%;
-} */
+    padding: 2em;
+}
 
 
-* {
+/* * {
     box-sizing: border-box;
 }
 
@@ -38,4 +39,4 @@ body {
 
     padding: 5em; /* 16 * 5 = 80px */
     /* height: 300px; */
-}
+/* } */ 
