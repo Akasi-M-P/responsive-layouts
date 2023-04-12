@@ -11,9 +11,11 @@ body {
     background-color: rgb(145, 116, 80);
     padding: 50px;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 .child {
     background-color: rgb(238, 238, 238);
     height: 250px;
+    width: 50%;
 }
