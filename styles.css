@@ -1,4 +1,4 @@
-* {
+/* * {
     box-sizing: border-box;
 }
 
@@ -18,4 +18,24 @@ body {
     background-color: rgb(238, 238, 238);
     height: 250px;
     width: 50%;
+} */
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    background: rgb(99, 85, 60);
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+
+    padding: 5em; /* 16 * 5 = 80px */
+    /* height: 300px; */
 }
